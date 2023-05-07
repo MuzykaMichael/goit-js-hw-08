@@ -2342,6 +2342,6 @@ var global = arguments[3];
 }
 module.exports = throttle;
 
-},{}]},["5rKFT","fFZ34"], "fFZ34", "parcelRequire4c75")
+},{}]},["5rKFT","fFZ34"], "fFZ34", "parcelRequired7c6")
 
 //# sourceMappingURL=02-video.a74b541c.js.map
